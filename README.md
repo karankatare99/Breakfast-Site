@@ -18,6 +18,11 @@ A modern, animated restaurant website built with Next.js, featuring smooth scrol
 - 📱 Mobile-friendly interface
 - ⚡ Optimized performance with Next.js
 
+## Live Demo
+
+https://breakfast-site-coral.vercel.app/
+
+
 ## Getting Started
 
 ### Prerequisites
