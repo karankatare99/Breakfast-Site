@@ -54,6 +54,7 @@ The project uses Motion library for animations:
 ## Build
 
 npm run build
+
 npm start
 
 
