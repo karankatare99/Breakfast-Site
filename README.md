@@ -43,24 +43,6 @@ npm run dev
 
 4. Open [http://localhost:3000](http://localhost:3000) in your browser
 
-## Project Structure
-
-├── app/
-│ ├── components/ # Reusable components (Navbar, etc.)
-│ ├── svgs/ # SVG icons and assets
-│ └── page.tsx # Main pages
-├── public/ # Static assets
-└── tailwind.config.js # Tailwind configuration
-
-
-## Development
-
-### Code Formatting
-
-This project uses Prettier with Tailwind CSS class sorting:
-
-npm run format
-
 
 ### Animation Patterns
 
@@ -82,10 +64,3 @@ MIT
 ---
 
 Built with ❤️ using Next.js and Motion
-Would you like me to adjust any sections, add deployment instructions, or include more specific features you've implemented?
-
-
-
-
-
-
